@@ -1,2 +1,0 @@
-/Feedbackapp/node_modules
-/Phonebookapp/node_modules
